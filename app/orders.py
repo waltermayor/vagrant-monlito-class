@@ -1,5 +1,5 @@
 from fastapi import HTTPException
-from .users import get_user
+from users import get_user
 
 
 orders = {

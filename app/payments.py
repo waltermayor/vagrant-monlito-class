@@ -1,5 +1,5 @@
 from fastapi import HTTPException
-from .orders import get_order
+from orders import get_order
 
 
 payments = {
